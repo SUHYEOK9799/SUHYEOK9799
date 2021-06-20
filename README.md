@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK97&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **SUHYEOK97/SUHYEOK97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
