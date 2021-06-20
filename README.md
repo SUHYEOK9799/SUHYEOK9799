@@ -1,17 +1,29 @@
-### Hi there 👋
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20SuHyeok!&fontSize=90"/></div>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK97&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
-**SUHYEOK97/SUHYEOK97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHYEOK97&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-092E20?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Android-339933?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
+  <br><br>
+  
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3 align="center">📊 I used .. 📊</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHYEOK97"/>&nbsp 
+  <hr>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK97&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
+</div>
+
+
