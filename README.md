@@ -18,11 +18,23 @@
 
 </p>
 
+<h3 align="center">⚙ Algorithm Problem Solving ⚙</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+         <a href="https://solved.ac/rlatngur10"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngur10" /></a>
+      </td>
+   </tr>
+  </table>
+</div><br>
+
 <div align="center">
   <h3 align="center">📊 I used .. 📊</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHYEOK97"/>&nbsp 
   <hr>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK97&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
 </div>
+
 
 
