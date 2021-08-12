@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Vue.js-092E20?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Android-339933?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Jenkins-CB6E6E?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-0A12F9?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon-9A8E25?style=flat-square&logo=Amazon&logoColor=white"/>&nbsp 
   <br><br>
   
 
