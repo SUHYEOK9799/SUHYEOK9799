@@ -37,7 +37,7 @@
   <h3 align="center">📊 I used .. 📊</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHYEOK9799"/>&nbsp 
   <hr>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK9799&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK97&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
 </div>
 
 
