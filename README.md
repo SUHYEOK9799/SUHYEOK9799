@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHYEOK97&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHYEOK9799&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -35,9 +35,9 @@
 
 <div align="center">
   <h3 align="center">📊 I used .. 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHYEOK97"/>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHYEOK9799"/>&nbsp 
   <hr>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK97&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUHYEOK9799&count_bg=%23000000&title_bg=%23706E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
 </div>
 
 
